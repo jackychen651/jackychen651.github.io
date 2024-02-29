@@ -27,7 +27,7 @@ $$||A||_{\infty}=\max_{1\leq i\leq m} \sum_{j=1}^n|a_{ij}|$$
 
 $$||A||_{*}=\sum_{i=1}^r\sigma_i$$
 
-\\(\sigma_i\\)为$A$的所有非零奇异值，\\( =\text{rank} (A)\\).
+\\(\sigma_i\\)为\\(A\\)的所有非零奇异值，\\( =\text{rank} (A)\\).
 
 ## 凸集、凸组合、凸包
 
