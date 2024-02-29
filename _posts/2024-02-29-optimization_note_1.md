@@ -18,13 +18,13 @@ $$||A||_2=\sqrt{\lambda_{max}(A^TA)}$$
 $$||A||_{\infty}=\max_{1\leq i\leq m} \sum_{j=1}^n|a_{ij}|$$
 ### 核范数
 $$||A||_{*}=\sum_{i=1}^r\sigma_i$$
-$\sigma_i$为$A$的所有非零奇异值，$r =\text{rank} (A)$.
+\\(\sigma_i\\)为$A$的所有非零奇异值，\\( =\text{rank} (A)\\).
 ## 凸集、凸组合、凸包
-**凸包**：集合$\mathcal{S}$的所有点的凸组合构成的集合叫做 $\mathcal{S}$的**凸包**，记为$\text{conv}\mathcal{S}$.
+**凸包**：集合\\(\mathcal{S}\\)的所有点的凸组合构成的集合叫做 \\(\mathcal{S}\\)的**凸包**，记为\\(\text{conv}\mathcal{S}\\).
 
 **凸包的等价定义**：
 $$\text{conv} \mathcal{S} = \bigcap_{C\supseteq S, C\text{ is convex}}C$$
-即$\text{conv}\mathcal{S}$为包含$\mathcal{S}$的最小凸集.
+即\\(\text{conv}\mathcal{S}\\)为包含\\(\mathcal{S}\\)的最小凸集.
 
 
 
