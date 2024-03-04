@@ -11,22 +11,22 @@ tags:
 ## 矩阵范数
 ### 向量范数的推广
 
-$$||A||_1=\sum_{i,j}|A_{ij}|$$
+$$\|A\|_1=\sum_{i,j}|A_{ij}|$$
 
-$$||A||_F=\sqrt{\sum_{i,j}A_{ij}^2}=\sqrt{tr(AA^T)}$$
+$$\|A\|_F=\sqrt{\sum_{i,j}A_{ij}^2}=\sqrt{tr(AA^T)}$$
 
 ### 算子范数
 向量范数诱导
 
-$$||A||_1=\max_{1\leq j\leq n} \sum_{i=1}^m|a_{ij}|$$
+$$\|A\|_1=\max_{1\leq j\leq n} \sum_{i=1}^m|a_{ij}|$$
 
-$$||A||_2=\sqrt{\lambda_{max}(A^TA)}$$
+$$\|A\|_2=\sqrt{\lambda_{max}(A^TA)}$$
 
-$$||A||_{\infty}=\max_{1\leq i\leq m} \sum_{j=1}^n|a_{ij}|$$
+$$\|A\|_{\infty}=\max_{1\leq i\leq m} \sum_{j=1}^n|a_{ij}|$$
 
 ### 核范数
 
-$$||A||_{*}=\sum_{i=1}^r\sigma_i$$
+\\[\|A\|_{*}=\sum_{i=1}^r\sigma_i\\]
 
 \\(\sigma_i\\)为\\(A\\)的所有非零奇异值，\\( r=\text{rank} (A)\\).
 
