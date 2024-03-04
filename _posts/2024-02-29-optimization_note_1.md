@@ -26,7 +26,7 @@ $$\|A\|_{\infty}=\max_{1\leq i\leq m} \sum_{j=1}^n|a_{ij}|$$
 
 ### 核范数
 
-\\[\|A\|_{*}=\sum_{i=1}^r\sigma_i\\]
+\\[ \|A\|_{*}=\sum_{i=1}^r\sigma_i \\]
 
 \\(\sigma_i\\)为\\(A\\)的所有非零奇异值，\\( r=\text{rank} (A)\\).
 
