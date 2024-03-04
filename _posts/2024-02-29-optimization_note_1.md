@@ -57,11 +57,11 @@ $$\text{conv} \mathcal{S} = \bigcap_{C\supseteq S, C\text{ is convex}}C$$
 # 凸集的例子
 ## 超平面、半空间、多面体、（半）正定锥
 
-**超平面**：形如\\( {x\vert a^Tx=b, a\neq \textbf{0}} \\)的集合.
+**超平面**：形如\\( \{x\vert a^Tx=b, a\neq \textbf{0}\} \\)的集合.
 
-**半空间**：形如\\( {x\vert a^Tx\leq b, a\neq \textbf{0}} \\)的集合.
+**半空间**：形如\\( \{x\vert a^Tx\leq b, a\neq \textbf{0}\} \\)的集合.
 
-**多面体**：形如\\( {x\vert Ax\leq b, Cx=d,A\in \mathbb{R}^{m\times n} , C\in \mathbb{R}^{p\times n}}\\)的集合.
+**多面体**：形如\\( \{x\vert Ax\leq b, Cx=d,A\in \mathbb{R}^{m\times n} , C\in \mathbb{R}^{p\times n}\}\\)的集合.
 
 **（半）正定锥**
 
