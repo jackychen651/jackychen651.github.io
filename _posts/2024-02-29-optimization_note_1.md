@@ -44,7 +44,7 @@ $$\text{conv} \mathcal{S} = \bigcap_{C\supseteq S, C\text{ is convex}}C$$
 
 ## 仿射组合、仿射包
 
-**仿射组合**：去掉凸组合中系数\\(\leq 0\\)的限制，但保留系数之和为1的条件.
+**仿射组合**：去掉凸组合中系数\\(\geq 0\\)的限制，但保留系数之和为1的条件.
 
 **仿射包**：\\(\mathcal{S}\\)所有点的仿射组合构成的集合，记为\\(\text{affine}\mathcal{S}\\).
 
@@ -55,14 +55,13 @@ $$\text{conv} \mathcal{S} = \bigcap_{C\supseteq S, C\text{ is convex}}C$$
 **凸锥**：若集合\\(\mathcal{S}\\)中任意点的锥组合都在\\(\mathcal{S}\\)中，则称\\(\mathcal{S}\\)为凸锥.
 
 # 凸集的例子
-
 ## 超平面、半空间、多面体、（半）正定锥
 
-**超平面**：形如\\( {x|a^Tx=b, a\neq \textbf{0}} \\)的集合.
+**超平面**：形如\\( {x\vert a^Tx=b, a\neq \textbf{0}} \\)的集合.
 
-**半空间**：形如\\( {x|a^Tx\leq b}, a\neq \textbf{0} \\)的集合.
+**半空间**：形如\\( {x\vert a^Tx\leq b, a\neq \textbf{0}} \\)的集合.
 
-**多面体**：形如\\( {x|Ax\leq b}, Cx=d,A\in \mathbb{R}^{m\times n} , C\in \mathbb{R}^{p\times n}\\)的集合.
+**多面体**：形如\\( {x\vert Ax\leq b, Cx=d,A\in \mathbb{R}^{m\times n} , C\in \mathbb{R}^{p\times n}}\\)的集合.
 
 **（半）正定锥**
 
