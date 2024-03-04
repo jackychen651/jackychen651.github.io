@@ -6,6 +6,8 @@ tags:
   - Optimization
   - Convex Optimization
 ---
+Abstract: Preliminaries on convex set
+
 # 基础
 ## 矩阵范数
 ### 向量范数的推广
@@ -31,6 +33,8 @@ $$||A||_{*}=\sum_{i=1}^r\sigma_i$$
 
 ## 凸集、凸组合、凸包
 
+任意多个凸集的交为凸集.
+
 **凸包**：集合\\(\mathcal{S}\\)的所有点的凸组合构成的集合叫做 \\(\mathcal{S}\\)的**凸包**，记为\\(\text{conv}\mathcal{S}\\).
 
 **凸包的等价定义**：
@@ -53,12 +57,23 @@ $$\text{conv} \mathcal{S} = \bigcap_{C\supseteq S, C\text{ is convex}}C$$
 
 # 凸集的例子
 
-## 超平面、半空间、多面体
+## 超平面、半空间、多面体、（半）正定锥
 
 **超平面**：形如\\( {x|a^Tx=b, a\neq \textbf{0}} \\)的集合.
 
 **半空间**：形如\\( {x|a^Tx\leq b}, a\neq \textbf{0} \\)的集合.
 
 **多面体**：形如\\( {x|Ax\leq b}, Cx=d,A\in \mathbb{R}^{m\times n} , C\in \mathbb{R}^{p\times n}\\)的集合.
+
+**（半）正定锥**
+
+\\(\mathcal{S}^n\\)：\\( n\times n\\)对称矩阵
+
+\\(\mathcal{S}_+^n\\)：\\( n\times n\\)半正定矩阵
+
+\\(\mathcal{S}_{++}^n\\)：\\( n\times n\\)正定矩阵
+
+# 分离超平面定理
+
 
 ------
