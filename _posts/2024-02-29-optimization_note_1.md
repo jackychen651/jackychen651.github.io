@@ -1,7 +1,7 @@
 ---
 title: 'Optimization Notes -- Convex Set'
 date: 2024-02-29
-permalink: /posts/2024/08/optimization_1/
+permalink: /posts/2024/02/optimization_1/
 tags:
   - Optimization
   - Convex Optimization
@@ -57,7 +57,7 @@ $$\text{conv} \mathcal{S} = \bigcap_{C\supseteq S, C\text{ is convex}}C$$
 # 凸集的例子
 ## 超平面、半空间、多面体、（半）正定锥
 
-**超平面**：形如\\( \left\{x\vert a^Tx=b, a\neq \textbf{0}\right\} \\)的集合.
+**超平面**：形如\\( \left{x\vert a^Tx=b, a\neq \textbf{0}\right} \\)的集合.
 
 **半空间**：形如\\( \{x\vert a^Tx\leq b, a\neq \textbf{0}\} \\)的集合.
 
