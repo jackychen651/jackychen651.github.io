@@ -8,5 +8,4 @@ tags:
 
 MathJax is a piece of junk. I will not use MathJax to take notes. Therefore, all notes will be in the form of markdown or pdf.
 
-
 ------
