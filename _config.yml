@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xiao Chen"
 title_separator          : "-"
 name                     : &name "Xiao Chen"
-description              : &description "Undergraduate Student in Fudan University"
+description              : &description "Master Student in the University of Chicago"
 url                      : https://jackychen651.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jackychen651/jackychen651.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Xiao Chen"
   pronouns         : "he/his"  
-  bio              : "Undergraduate Student in Fudan University"
-  location         : "Shanghai, China"
-  employer         : "Fudan University"
+  bio              : "Master Student in the University of Chicago"
+  location         : "Chicago, Illinois, USA"
+  employer         : "The University of Chicago"
   uri              : # URL
-  email            : "20307130003@fudan.edu.cn" 
+  email            : "jackychen651@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
