@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student major in Mathematics in [School of Mathematical Sciences](https://math.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). 
+I am currently a master student major in Statistics in [Department of Statistics](https://stat.uchicago.edu/), [the University of Chicago](https://www.uchicago.edu/). 
 
-I have laid solid foundations in analysis, algebra and number theory during the study in my undergraduate school. Despite great enthusiasm in mathematics, I found that my true interest lies in Artificial Intelligence. In parallel with my study, I applied for two research projects concerning AI and data science. It was my greatest honor to work under the guidance of Prof. [Xingjun Ma](http://xingjunma.com/) and Prof. [Shuqin Zhang](https://www.researchgate.net/profile/Shu-Qin-Zhang).
+My life goal is to simulate natural phenomenon on modern computer, ranging from physics and chemistry to biology and astrology. Besides my great ambition, I have been interested in fast algorithms, scientific computing and some topics in statistics.
 
+During my undergraduate, I was fortunate to finish my thesis under the guidance of [Weiguo Gao](https://www.researchgate.net/profile/Weiguo-Gao). And during my master, I was fortunate to meet [Jeremy Hoskins](https://www.jghoskins.com/) in the course Fast Algorithms, who had a great influence on my current research interest.
